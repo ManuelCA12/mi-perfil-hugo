@@ -1,0 +1,8 @@
+baseURL = "https://tu-usuario-de-github.github.io/"
+languageCode = "es-mx"
+title = "Mi Perfil Profesional"
+theme = "ananke"
+
+[params]
+  author = "Héctor Manuel Cervantes Ambrosio"
+  description = "Estudiante de IDGS-UTM | Desarrollo para Dispositivos Inteligentes"
