@@ -7,4 +7,4 @@ theme = "ananke"
   author = "Héctor Manuel Cervantes Ambrosio"
   description = "Estudiante de IDGS-UTM | Desarrollo para Dispositivos Inteligentes"
 
-publishDir = "."
+publishDir = "docs"
